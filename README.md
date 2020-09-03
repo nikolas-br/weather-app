@@ -2,9 +2,7 @@ Simple React Native demo app, made for a tutorial on https://www.nikolas-blog.co
 
 <br />
 
-<div style="display: flex;justify-content: center;">
-  <img
+<img
     src="./assets/2.gif"
-    style="max-width: 540px;"
+    width="540"
   />
-</div>
